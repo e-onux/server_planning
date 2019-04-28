@@ -11,4 +11,4 @@ For unit test, please execute this command:
     ./vendor/bin/phpunit --bootstrap vendor/autoload.php tests/ServerPlanningTest.php
 .. and this:
 
-    ./vendor/bin/phpunit --bootstrap vendor/autoload.php tests/ServerPlanningTest.php
+    ./vendor/bin/phpunit --bootstrap vendor/autoload.php tests/ServerTest.php
